@@ -176,8 +176,6 @@ flowchart LR
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=17&pause=99999&duration=1&color=00F0FF&center=true&repeat=false&width=340&height=30&lines=CONSUMER+PRODUCT+DESIGN" alt="CONSUMER PRODUCT DESIGN" />
 
-<img src="https://img.shields.io/badge/IN%20PROGRESS-12002E?style=flat-square&labelColor=12002E&color=00F0FF" alt="IN PROGRESS" />
-
 <sub>Ergonomic housing study for a handheld consumer device, designed around injection-moulding constraints and snap-fit assembly.</sub>
 
 <sub>**SOLIDWORKS · Blender**</sub>
@@ -188,8 +186,6 @@ flowchart LR
 <td width="50%" align="center" valign="top">
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=17&pause=99999&duration=1&color=C026D3&center=true&repeat=false&width=400&height=30&lines=MOTORCYCLE+COMPONENT+DESIGN" alt="MOTORCYCLE COMPONENT DESIGN" />
-
-<img src="https://img.shields.io/badge/IN%20PROGRESS-12002E?style=flat-square&labelColor=12002E&color=C026D3" alt="IN PROGRESS" />
 
 <sub>Aftermarket bracket and mounting hardware set, modelled to fit existing frame geometry with clearance verification.</sub>
 
@@ -204,8 +200,6 @@ flowchart LR
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=17&pause=99999&duration=1&color=8B5CF6&center=true&repeat=false&width=290&height=30&lines=INDUSTRIAL+EQUIPMENT" alt="INDUSTRIAL EQUIPMENT" />
 
-<img src="https://img.shields.io/badge/PLANNED-12002E?style=flat-square&labelColor=12002E&color=8B5CF6" alt="PLANNED" />
-
 <sub>Machine sub-assembly and weldment frame with load-path reasoning and a full manufacturing drawing set.</sub>
 
 <sub>**SOLIDWORKS · Weldments**</sub>
@@ -216,8 +210,6 @@ flowchart LR
 <td width="50%" align="center" valign="top">
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=17&pause=99999&duration=1&color=0EA5E9&center=true&repeat=false&width=300&height=30&lines=3D+PRINTABLE+PRODUCTS" alt="3D PRINTABLE PRODUCTS" />
-
-<img src="https://img.shields.io/badge/IN%20PROGRESS-12002E?style=flat-square&labelColor=12002E&color=0EA5E9" alt="IN PROGRESS" />
 
 <sub>A library of print-ready parts designed for tolerance, orientation and minimal support material.</sub>
 
@@ -232,8 +224,6 @@ flowchart LR
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=17&pause=99999&duration=1&color=FF2EA6&center=true&repeat=false&width=300&height=30&lines=MECHANICAL+ASSEMBLIES" alt="MECHANICAL ASSEMBLIES" />
 
-<img src="https://img.shields.io/badge/PLANNED-12002E?style=flat-square&labelColor=12002E&color=FF2EA6" alt="PLANNED" />
-
 <sub>Multi-part assemblies with mates, motion study and interference detection, documented as exploded views.</sub>
 
 <sub>**SOLIDWORKS · Motion Study**</sub>
@@ -244,8 +234,6 @@ flowchart LR
 <td width="50%" align="center" valign="top">
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=17&pause=99999&duration=1&color=00F0FF&center=true&repeat=false&width=290&height=30&lines=ENGINEERING+DRAWINGS" alt="ENGINEERING DRAWINGS" />
-
-<img src="https://img.shields.io/badge/ONGOING-12002E?style=flat-square&labelColor=12002E&color=00F0FF" alt="ONGOING" />
 
 <sub>A growing set of production drawings: sections, details, tolerancing and GD&amp;T applied to real parts.</sub>
 
