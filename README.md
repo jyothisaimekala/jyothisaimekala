@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:1A0B3D,25:6D28D9,55:C026D3,80:0EA5E9,100:00F0FF&text=YOUR%20NAME&fontSize=54&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&desc=Mechanical%20Design%20Engineer%20%C2%B7%20Concept%20to%20Manufacture&descSize=18&descAlign=50&descAlignY=56&animation=fadeIn&stroke=00F0FF&strokeWidth=0" alt="Jyothisai Mekala — Mechanical Design Engineer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:1A0B3D,25:6D28D9,55:C026D3,80:0EA5E9,100:00F0FF&text=Jyothisai%20Mekala&fontSize=54&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&desc=Mechanical%20Design%20Engineer%20%C2%B7%20Concept%20to%20Manufacture&descSize=18&descAlign=50&descAlignY=56&animation=fadeIn&stroke=00F0FF&strokeWidth=0" alt="Jyothisai Mekala — Mechanical Design Engineer" width="100%" />
 
 <!-- Optional: replace the gradient header above with your own CAD banner
      <img src="assets/banner.png" width="100%" /> -->
@@ -261,8 +261,8 @@ A growing set of production drawings: sections, details, tolerancing and GD&amp;
 Open to collaborating on innovative mechanical product design, CAD modelling and engineering documentation work — from a single component to a full assembly.
 
 <p>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-12002E?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=12002E" alt="LinkedIn" /></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/EMAIL-12002E?style=for-the-badge&logo=maildotru&logoColor=FF2EA6&labelColor=12002E" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/jyothisai-mechanical"><img src="https://img.shields.io/badge/LINKEDIN-12002E?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=12002E" alt="LinkedIn" /></a>
+<a href="mailto:jyothisaimekala838@gmail.com"><img src="https://img.shields.io/badge/EMAIL-12002E?style=for-the-badge&logo=maildotru&logoColor=FF2EA6&labelColor=12002E" alt="Email" /></a>
 </p>
 
 <br />
@@ -273,11 +273,10 @@ Open to collaborating on innovative mechanical product design, CAD modelling and
 
 <div align="center">
 
-<sub>Designed, modelled and documented by **YOUR NAME** · Mechanical Design Engineer</sub>
+<sub>Designed, modelled and documented by **Jyothisai Mekala** · Mechanical Design Engineer</sub>
 
 <sub>`CONCEPT` — `CAD` — `VALIDATION` — `PRODUCTION`</sub>
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:00F0FF,25:0EA5E9,55:C026D3,80:6D28D9,100:1A0B3D" width="100%" alt="" />
-
