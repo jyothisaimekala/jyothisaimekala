@@ -180,8 +180,6 @@ flowchart LR
 
 <sub>**SOLIDWORKS · Blender**</sub>
 
-<sub>Repository — coming soon</sub>
-
 </td>
 <td width="50%" align="center" valign="top">
 
@@ -190,8 +188,6 @@ flowchart LR
 <sub>Aftermarket bracket and mounting hardware set, modelled to fit existing frame geometry with clearance verification.</sub>
 
 <sub>**SOLIDWORKS · AutoCAD**</sub>
-
-<sub>Repository — coming soon</sub>
 
 </td>
 </tr>
@@ -204,8 +200,6 @@ flowchart LR
 
 <sub>**SOLIDWORKS · Weldments**</sub>
 
-<sub>Repository — coming soon</sub>
-
 </td>
 <td width="50%" align="center" valign="top">
 
@@ -214,8 +208,6 @@ flowchart LR
 <sub>A library of print-ready parts designed for tolerance, orientation and minimal support material.</sub>
 
 <sub>**SOLIDWORKS · Blender · FDM**</sub>
-
-<sub>Repository — coming soon</sub>
 
 </td>
 </tr>
@@ -228,8 +220,6 @@ flowchart LR
 
 <sub>**SOLIDWORKS · Motion Study**</sub>
 
-<sub>Repository — coming soon</sub>
-
 </td>
 <td width="50%" align="center" valign="top">
 
@@ -238,8 +228,6 @@ flowchart LR
 <sub>A growing set of production drawings: sections, details, tolerancing and GD&amp;T applied to real parts.</sub>
 
 <sub>**AutoCAD · SOLIDWORKS Drawings**</sub>
-
-<sub>Repository — coming soon</sub>
 
 </td>
 </tr>
