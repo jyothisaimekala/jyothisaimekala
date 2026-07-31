@@ -41,26 +41,20 @@ I design products that can actually be built.
 
 My work sits between the sketch and the shop floor: taking an idea through research, geometry, tolerance and material choice until it becomes a manufacturable, documented, production-ready assembly.
 
-**Focus areas**
+<div align="center">
 
-<img src="https://img.shields.io/badge/CONSUMER%20PRODUCTS-12002E?style=for-the-badge&labelColor=12002E&color=00F0FF" alt="CONSUMER PRODUCTS" />
-<br /><sub>🎧&nbsp; Ergonomics · enclosures · assembly-friendly geometry</sub>
+**FOCUS AREAS**
 
-<img src="https://img.shields.io/badge/AUTOMOTIVE%20COMPONENTS-12002E?style=for-the-badge&labelColor=12002E&color=C026D3" alt="AUTOMOTIVE COMPONENTS" />
-<br /><sub>🚗&nbsp; Brackets · housings · functional mechanical parts</sub>
+| Domain | Scope |
+| :--: | :--: |
+| **Consumer Products** | Ergonomics · enclosures · assembly-friendly geometry |
+| **Automotive Components** | Brackets · housings · functional mechanical parts |
+| **Motorcycle Parts** | Aftermarket and performance component design |
+| **Industrial Equipment** | Frames · fixtures · machine sub-assemblies |
+| **Product Visualization** | Rendering · exploded views · presentation drawings |
+| **3D Printable Products** | Print-oriented design · tolerancing · fast iteration |
 
-<img src="https://img.shields.io/badge/MOTORCYCLE%20PARTS-12002E?style=for-the-badge&labelColor=12002E&color=8B5CF6" alt="MOTORCYCLE PARTS" />
-<br /><sub>🏍️&nbsp; Aftermarket and performance component design</sub>
-
-<img src="https://img.shields.io/badge/INDUSTRIAL%20EQUIPMENT-12002E?style=for-the-badge&labelColor=12002E&color=0EA5E9" alt="INDUSTRIAL EQUIPMENT" />
-<br /><sub>⚙️&nbsp; Frames · fixtures · machine sub-assemblies</sub>
-
-<img src="https://img.shields.io/badge/PRODUCT%20VISUALIZATION-12002E?style=for-the-badge&labelColor=12002E&color=FF2EA6" alt="PRODUCT VISUALIZATION" />
-<br /><sub>🎬&nbsp; Rendering · exploded views · presentation drawings</sub>
-
-<img src="https://img.shields.io/badge/3D%20PRINTABLE%20PRODUCTS-12002E?style=for-the-badge&labelColor=12002E&color=00F0FF" alt="3D PRINTABLE PRODUCTS" />
-<br /><sub>🧊&nbsp; Print-oriented design · tolerancing · fast iteration</sub>
-n |
+</div>
 
 Previously I worked in system-focused engineering environments where precision, ownership, structured workflows, disciplined execution and consistently hitting targets were non-negotiable. That mindset — document everything, verify before you ship, respect the tolerance — is exactly what I now bring to mechanical product design.
 
@@ -123,16 +117,22 @@ This GitHub is the working record of that journey: every concept, sketch iterati
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=99999&duration=1&color=0EA5E9&repeat=false&width=620&height=40&lines=CURRENTLY+BUILDING+DEPTH+IN" alt="CURRENTLY BUILDING DEPTH IN" />
 
-<p>📐&nbsp; <img src="https://img.shields.io/badge/AutoCAD%20Professional%20Workflow-12002E?style=flat-square&labelColor=12002E&color=00F0FF" alt="AutoCAD Professional Workflow" />&nbsp; <img src="https://progress-bar.xyz/82/?width=260&color=00F0FF&suffix=%25" alt="82%" /></p>
-<p>🧩&nbsp; <img src="https://img.shields.io/badge/SOLIDWORKS%20Advanced%20Modeling-12002E?style=flat-square&labelColor=12002E&color=0EA5E9" alt="SOLIDWORKS Advanced Modeling" />&nbsp; <img src="https://progress-bar.xyz/74/?width=260&color=0EA5E9&suffix=%25" alt="74%" /></p>
-<p>🔩&nbsp; <img src="https://img.shields.io/badge/Assembly%20Design-12002E?style=flat-square&labelColor=12002E&color=8B5CF6" alt="Assembly Design" />&nbsp; <img src="https://progress-bar.xyz/68/?width=260&color=8B5CF6&suffix=%25" alt="68%" /></p>
-<p>📄&nbsp; <img src="https://img.shields.io/badge/Engineering%20Drawings-12002E?style=flat-square&labelColor=12002E&color=C026D3" alt="Engineering Drawings" />&nbsp; <img src="https://progress-bar.xyz/78/?width=260&color=C026D3&suffix=%25" alt="78%" /></p>
-<p>📏&nbsp; <img src="https://img.shields.io/badge/GD%26T-12002E?style=flat-square&labelColor=12002E&color=FF2EA6" alt="GD%26T" />&nbsp; <img src="https://progress-bar.xyz/46/?width=260&color=FF2EA6&suffix=%25" alt="46%" /></p>
-<p>🏭&nbsp; <img src="https://img.shields.io/badge/Design%20for%20Manufacturing-12002E?style=flat-square&labelColor=12002E&color=00F0FF" alt="Design for Manufacturing" />&nbsp; <img src="https://progress-bar.xyz/57/?width=260&color=00F0FF&suffix=%25" alt="57%" /></p>
-<p>🎬&nbsp; <img src="https://img.shields.io/badge/Product%20Visualization-12002E?style=flat-square&labelColor=12002E&color=0EA5E9" alt="Product Visualization" />&nbsp; <img src="https://progress-bar.xyz/63/?width=260&color=0EA5E9&suffix=%25" alt="63%" /></p>
-<p>🔍&nbsp; <img src="https://img.shields.io/badge/Reverse%20Engineering-12002E?style=flat-square&labelColor=12002E&color=8B5CF6" alt="Reverse Engineering" />&nbsp; <img src="https://progress-bar.xyz/41/?width=260&color=8B5CF6&suffix=%25" alt="41%" /></p>
-<p>🌀&nbsp; <img src="https://img.shields.io/badge/Motion%20Study-12002E?style=flat-square&labelColor=12002E&color=C026D3" alt="Motion Study" />&nbsp; <img src="https://progress-bar.xyz/35/?width=260&color=C026D3&suffix=%25" alt="35%" /></p>
-<p>🗂️&nbsp; <img src="https://img.shields.io/badge/Design%20Documentation-12002E?style=flat-square&labelColor=12002E&color=FF2EA6" alt="Design Documentation" />&nbsp; <img src="https://progress-bar.xyz/71/?width=260&color=FF2EA6&suffix=%25" alt="71%" /></p>
+<div align="center">
+
+| Discipline | Proficiency |
+| :--: | :--: |
+| **AutoCAD Professional Workflow** | <img src="https://progress-bar.xyz/82/?width=280&color=00F0FF&suffix=%25" alt="82%" /> |
+| **SOLIDWORKS Advanced Modeling** | <img src="https://progress-bar.xyz/74/?width=280&color=0EA5E9&suffix=%25" alt="74%" /> |
+| **Assembly Design** | <img src="https://progress-bar.xyz/68/?width=280&color=8B5CF6&suffix=%25" alt="68%" /> |
+| **Engineering Drawings** | <img src="https://progress-bar.xyz/78/?width=280&color=C026D3&suffix=%25" alt="78%" /> |
+| **GD&amp;T** | <img src="https://progress-bar.xyz/46/?width=280&color=FF2EA6&suffix=%25" alt="46%" /> |
+| **Design for Manufacturing** | <img src="https://progress-bar.xyz/57/?width=280&color=00F0FF&suffix=%25" alt="57%" /> |
+| **Product Visualization** | <img src="https://progress-bar.xyz/63/?width=280&color=0EA5E9&suffix=%25" alt="63%" /> |
+| **Reverse Engineering** | <img src="https://progress-bar.xyz/41/?width=280&color=8B5CF6&suffix=%25" alt="41%" /> |
+| **Motion Study** | <img src="https://progress-bar.xyz/35/?width=280&color=C026D3&suffix=%25" alt="35%" /> |
+| **Design Documentation** | <img src="https://progress-bar.xyz/71/?width=280&color=FF2EA6&suffix=%25" alt="71%" /> |
+
+</div>
 
 <br />
 
@@ -168,114 +168,96 @@ flowchart LR
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=99999&duration=1&color=00F0FF&repeat=false&width=430&height=40&lines=FEATURED+PROJECTS" alt="FEATURED PROJECTS" />
 
-<details>
-<summary><b>🎧&nbsp; Consumer Product Design</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/IN%20PROGRESS-12002E?style=flat-square&labelColor=12002E&color=00F0FF" alt="IN PROGRESS" /></summary>
+<div align="center">
 
-<br />
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
+**Consumer Product Design**
+
+`IN PROGRESS`
 
 Ergonomic housing study for a handheld consumer device, designed around injection-moulding constraints and snap-fit assembly.
 
-<img src="https://img.shields.io/badge/SOLIDWORKS-12002E?style=flat-square&labelColor=12002E&color=00F0FF" alt="SOLIDWORKS" />
-<img src="https://img.shields.io/badge/Blender-12002E?style=flat-square&labelColor=12002E&color=00F0FF" alt="Blender" />
+_SOLIDWORKS · Blender_
 
-- Draft analysis
-- Wall-thickness study
-- Snap-fit detailing
+_Repository — coming soon_
 
-<sub>🔗 Repository — coming soon</sub>
+</td>
+<td width="50%" align="center" valign="top">
 
-</details>
+**Motorcycle Component Design**
 
-<details>
-<summary><b>🏍️&nbsp; Motorcycle Component Design</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/IN%20PROGRESS-12002E?style=flat-square&labelColor=12002E&color=C026D3" alt="IN PROGRESS" /></summary>
-
-<br />
+`IN PROGRESS`
 
 Aftermarket bracket and mounting hardware set, modelled to fit existing frame geometry with clearance verification.
 
-<img src="https://img.shields.io/badge/SOLIDWORKS-12002E?style=flat-square&labelColor=12002E&color=C026D3" alt="SOLIDWORKS" />
-<img src="https://img.shields.io/badge/AutoCAD-12002E?style=flat-square&labelColor=12002E&color=C026D3" alt="AutoCAD" />
+_SOLIDWORKS · AutoCAD_
 
-- Reverse-engineered mounting points
-- Clearance + interference checks
-- Load-path reasoning
+_Repository — coming soon_
 
-<sub>🔗 Repository — coming soon</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
 
-</details>
+**Industrial Equipment**
 
-<details>
-<summary><b>⚙️&nbsp; Industrial Equipment</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/PLANNED-12002E?style=flat-square&labelColor=12002E&color=8B5CF6" alt="PLANNED" /></summary>
-
-<br />
+`PLANNED`
 
 Machine sub-assembly and weldment frame with load-path reasoning and a full manufacturing drawing set.
 
-<img src="https://img.shields.io/badge/SOLIDWORKS-12002E?style=flat-square&labelColor=12002E&color=8B5CF6" alt="SOLIDWORKS" />
-<img src="https://img.shields.io/badge/Weldments-12002E?style=flat-square&labelColor=12002E&color=8B5CF6" alt="Weldments" />
+_SOLIDWORKS · Weldments_
 
-- Frame + fixture design
-- Manufacturing drawing set
-- Standard-parts library
+_Repository — coming soon_
 
-<sub>🔗 Repository — coming soon</sub>
+</td>
+<td width="50%" align="center" valign="top">
 
-</details>
+**3D Printable Products**
 
-<details>
-<summary><b>🧊&nbsp; 3D Printable Products</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/IN%20PROGRESS-12002E?style=flat-square&labelColor=12002E&color=0EA5E9" alt="IN PROGRESS" /></summary>
-
-<br />
+`IN PROGRESS`
 
 A library of print-ready parts designed for tolerance, orientation and minimal support material.
 
-<img src="https://img.shields.io/badge/SOLIDWORKS-12002E?style=flat-square&labelColor=12002E&color=0EA5E9" alt="SOLIDWORKS" />
-<img src="https://img.shields.io/badge/Blender-12002E?style=flat-square&labelColor=12002E&color=0EA5E9" alt="Blender" />
-<img src="https://img.shields.io/badge/FDM-12002E?style=flat-square&labelColor=12002E&color=0EA5E9" alt="FDM" />
+_SOLIDWORKS · Blender · FDM_
 
-- Print-orientation strategy
-- Tolerance test coupons
-- Support-free geometry
+_Repository — coming soon_
 
-<sub>🔗 Repository — coming soon</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
 
-</details>
+**Mechanical Assemblies**
 
-<details>
-<summary><b>🔩&nbsp; Mechanical Assemblies</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/PLANNED-12002E?style=flat-square&labelColor=12002E&color=FF2EA6" alt="PLANNED" /></summary>
-
-<br />
+`PLANNED`
 
 Multi-part assemblies with mates, motion study and interference detection, documented as exploded views.
 
-<img src="https://img.shields.io/badge/SOLIDWORKS-12002E?style=flat-square&labelColor=12002E&color=FF2EA6" alt="SOLIDWORKS" />
-<img src="https://img.shields.io/badge/Motion%20Study-12002E?style=flat-square&labelColor=12002E&color=FF2EA6" alt="Motion Study" />
+_SOLIDWORKS · Motion Study_
 
-- Mate schemes
-- Interference detection
-- Exploded-view documentation
+_Repository — coming soon_
 
-<sub>🔗 Repository — coming soon</sub>
+</td>
+<td width="50%" align="center" valign="top">
 
-</details>
+**Engineering Drawings**
 
-<details>
-<summary><b>📄&nbsp; Engineering Drawings</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/ONGOING-12002E?style=flat-square&labelColor=12002E&color=00F0FF" alt="ONGOING" /></summary>
+`ONGOING`
 
-<br />
+A growing set of production drawings: sections, details, tolerancing and GD&amp;T applied to real parts.
 
-A growing set of production drawings: sections, details, tolerancing and GD&T applied to real parts.
+_AutoCAD · SOLIDWORKS Drawings_
 
-<img src="https://img.shields.io/badge/AutoCAD-12002E?style=flat-square&labelColor=12002E&color=00F0FF" alt="AutoCAD" />
-<img src="https://img.shields.io/badge/SW%20Drawings-12002E?style=flat-square&labelColor=12002E&color=00F0FF" alt="SW Drawings" />
+_Repository — coming soon_
 
-- Section + detail views
-- GD&T application
-- Title-block standards
+</td>
+</tr>
+</table>
 
-<sub>🔗 Repository — coming soon</sub>
-
-</details>
+</div>
 
 <br />
 
