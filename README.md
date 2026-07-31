@@ -244,29 +244,6 @@ A growing set of production drawings: sections, details, tolerancing and GD&amp;
 
 <br />
 
-## Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=00E5FF&ring_color=00E5FF" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" alt="Top languages" height="165" />
-
-<br /><br />
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0D1117&stroke=1C1F26&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="Contribution streak" />
-
-<br /><br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=C9D1D9&line=00E5FF&point=E6EDF3&area=true&hide_border=true" alt="Contribution graph" width="100%" />
-
-</div>
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B1020,25:1B3A6B,55:0E7C8C,80:00E5FF,100:0B1020&section=header" width="100%" alt="" />
-
-<br />
-
 <div align="center">
 
 ### "A drawing is a promise. Every dimension on it is a commitment to reality."
