@@ -171,7 +171,7 @@ flowchart LR
 Ergonomic housing study for a handheld consumer device, designed around injection-moulding constraints and snap-fit assembly.
 
 **Tools** · SOLIDWORKS · Blender
-**Repository** · _link coming soon_
+**Repository** ·
 
 </td>
 <td width="50%" valign="top">
@@ -183,7 +183,7 @@ Ergonomic housing study for a handheld consumer device, designed around injectio
 Aftermarket bracket and mounting hardware set, modelled to fit existing frame geometry with clearance verification.
 
 **Tools** · SOLIDWORKS · AutoCAD
-**Repository** · _link coming soon_
+**Repository** ·
 
 </td>
 </tr>
@@ -197,7 +197,7 @@ Aftermarket bracket and mounting hardware set, modelled to fit existing frame ge
 Machine sub-assembly and weldment frame with load-path reasoning and a full manufacturing drawing set.
 
 **Tools** · SOLIDWORKS · Engineering Drawings
-**Repository** · _link coming soon_
+**Repository** ·
 
 </td>
 <td width="50%" valign="top">
@@ -209,7 +209,7 @@ Machine sub-assembly and weldment frame with load-path reasoning and a full manu
 A small library of print-ready parts designed for tolerance, orientation and minimal support material.
 
 **Tools** · SOLIDWORKS · Blender · FDM
-**Repository** · _link coming soon_
+**Repository** ·
 
 </td>
 </tr>
@@ -223,7 +223,7 @@ A small library of print-ready parts designed for tolerance, orientation and min
 Multi-part assemblies with mates, motion study and interference detection, documented as exploded views.
 
 **Tools** · SOLIDWORKS · Motion Study
-**Repository** · _link coming soon_
+**Repository** ·
 
 </td>
 <td width="50%" valign="top">
@@ -235,7 +235,7 @@ Multi-part assemblies with mates, motion study and interference detection, docum
 A growing set of production drawings: sections, details, tolerancing and GD&amp;T applied to real parts.
 
 **Tools** · AutoCAD · SOLIDWORKS Drawings
-**Repository** · _link coming soon_
+**Repository** ·
 
 </td>
 </tr>
