@@ -8,14 +8,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1A0B3D,25:6D28D9,55:C026D3,80:0EA5E9,100:00F0FF" width="100%" alt="" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=44&pause=99999&duration=1600&color=00F0FF&center=true&vCenter=true&repeat=false&width=760&height=64&lines=JYOTHISAI+MEKALA" alt="Jyothisai Mekala" />
+<img src="./assets/banner.png" width="100%" alt="Jyothisai Mekala — Mechanical Design Engineer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=20&pause=99999&duration=1200&color=C026D3&center=true&vCenter=true&repeat=false&width=760&height=34&lines=MECHANICAL+DESIGN+ENGINEER" alt="Mechanical Design Engineer" />
-
-<!-- Optional: replace the gradient header above with your own CAD banner
-     <img src="assets/banner.png" width="100%" /> -->
 
 <br />
 
