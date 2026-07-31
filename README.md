@@ -8,15 +8,10 @@
 
 <div align="center">
 
-<img src="assets/banner.png" alt="Mechanical design blueprint banner — wireframe motorcycle and exploded assembly on a dark technical grid" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,35:14213D,70:0E5C7A,100:00E5FF&text=YOUR%20NAME&fontSize=52&fontColor=E6EDF3&fontAlign=50&fontAlignY=38&desc=Mechanical%20Design%20Engineer%20%C2%B7%20Concept%20to%20Manufacture&descSize=18&descAlign=50&descAlignY=56&animation=fadeIn" alt="YOUR NAME — Mechanical Design Engineer" width="100%" />
 
-<br /><br />
-
-# Jyothisai Mekala
-
-### Mechanical Design Engineer
-
-**Concept → CAD → Manufacture**
+<!-- Optional: replace the gradient header above with your own CAD banner
+     <img src="assets/banner.png" width="100%" /> -->
 
 <br />
 
@@ -33,7 +28,7 @@
 
 <br />
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B1020,25:1B3A6B,55:0E7C8C,80:00E5FF,100:0B1020&section=header" width="100%" alt="" />
 
 <br />
 
@@ -60,7 +55,7 @@ This GitHub is the working record of that journey: every concept, sketch iterati
 
 <br />
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B1020,25:1B3A6B,55:0E7C8C,80:00E5FF,100:0B1020&section=header" width="100%" alt="" />
 
 <br />
 
@@ -79,7 +74,7 @@ This GitHub is the working record of that journey: every concept, sketch iterati
 
 <br />
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B1020,25:1B3A6B,55:0E7C8C,80:00E5FF,100:0B1020&section=header" width="100%" alt="" />
 
 <br />
 
@@ -109,7 +104,7 @@ This GitHub is the working record of that journey: every concept, sketch iterati
 
 <br />
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B1020,25:1B3A6B,55:0E7C8C,80:00E5FF,100:0B1020&section=header" width="100%" alt="" />
 
 <br />
 
@@ -130,7 +125,7 @@ This GitHub is the working record of that journey: every concept, sketch iterati
 
 <br />
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B1020,25:1B3A6B,55:0E7C8C,80:00E5FF,100:0B1020&section=header" width="100%" alt="" />
 
 <br />
 
@@ -156,7 +151,7 @@ flowchart LR
 
 <br />
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B1020,25:1B3A6B,55:0E7C8C,80:00E5FF,100:0B1020&section=header" width="100%" alt="" />
 
 <br />
 
@@ -245,7 +240,7 @@ A growing set of production drawings: sections, details, tolerancing and GD&amp;
 
 <br />
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B1020,25:1B3A6B,55:0E7C8C,80:00E5FF,100:0B1020&section=header" width="100%" alt="" />
 
 <br />
 
@@ -268,7 +263,7 @@ A growing set of production drawings: sections, details, tolerancing and GD&amp;
 
 <br />
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B1020,25:1B3A6B,55:0E7C8C,80:00E5FF,100:0B1020&section=header" width="100%" alt="" />
 
 <br />
 
@@ -280,7 +275,7 @@ A growing set of production drawings: sections, details, tolerancing and GD&amp;
 
 <br />
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B1020,25:1B3A6B,55:0E7C8C,80:00E5FF,100:0B1020&section=header" width="100%" alt="" />
 
 <br />
 
@@ -295,7 +290,7 @@ Open to collaborating on innovative mechanical product design, CAD modelling and
 
 <br />
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B1020,25:1B3A6B,55:0E7C8C,80:00E5FF,100:0B1020&section=header" width="100%" alt="" />
 
 <br />
 
@@ -306,3 +301,5 @@ Open to collaborating on innovative mechanical product design, CAD modelling and
 <sub>`CONCEPT` — `CAD` — `VALIDATION` — `PRODUCTION`</sub>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:00E5FF,30:0E5C7A,65:14213D,100:0B1020" width="100%" alt="" />
