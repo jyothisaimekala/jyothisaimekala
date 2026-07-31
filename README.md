@@ -174,84 +174,84 @@ flowchart LR
 <tr>
 <td width="50%" align="center" valign="top">
 
-**Consumer Product Design**
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=17&pause=99999&duration=1&color=00F0FF&center=true&repeat=false&width=340&height=30&lines=CONSUMER+PRODUCT+DESIGN" alt="CONSUMER PRODUCT DESIGN" />
 
-`IN PROGRESS`
+<img src="https://img.shields.io/badge/IN%20PROGRESS-12002E?style=flat-square&labelColor=12002E&color=00F0FF" alt="IN PROGRESS" />
 
-Ergonomic housing study for a handheld consumer device, designed around injection-moulding constraints and snap-fit assembly.
+<sub>Ergonomic housing study for a handheld consumer device, designed around injection-moulding constraints and snap-fit assembly.</sub>
 
-_SOLIDWORKS · Blender_
+<sub>**SOLIDWORKS · Blender**</sub>
 
-_Repository — coming soon_
-
-</td>
-<td width="50%" align="center" valign="top">
-
-**Motorcycle Component Design**
-
-`IN PROGRESS`
-
-Aftermarket bracket and mounting hardware set, modelled to fit existing frame geometry with clearance verification.
-
-_SOLIDWORKS · AutoCAD_
-
-_Repository — coming soon_
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-
-**Industrial Equipment**
-
-`PLANNED`
-
-Machine sub-assembly and weldment frame with load-path reasoning and a full manufacturing drawing set.
-
-_SOLIDWORKS · Weldments_
-
-_Repository — coming soon_
+<sub>Repository — coming soon</sub>
 
 </td>
 <td width="50%" align="center" valign="top">
 
-**3D Printable Products**
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=17&pause=99999&duration=1&color=C026D3&center=true&repeat=false&width=400&height=30&lines=MOTORCYCLE+COMPONENT+DESIGN" alt="MOTORCYCLE COMPONENT DESIGN" />
 
-`IN PROGRESS`
+<img src="https://img.shields.io/badge/IN%20PROGRESS-12002E?style=flat-square&labelColor=12002E&color=C026D3" alt="IN PROGRESS" />
 
-A library of print-ready parts designed for tolerance, orientation and minimal support material.
+<sub>Aftermarket bracket and mounting hardware set, modelled to fit existing frame geometry with clearance verification.</sub>
 
-_SOLIDWORKS · Blender · FDM_
+<sub>**SOLIDWORKS · AutoCAD**</sub>
 
-_Repository — coming soon_
+<sub>Repository — coming soon</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
 
-**Mechanical Assemblies**
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=17&pause=99999&duration=1&color=8B5CF6&center=true&repeat=false&width=290&height=30&lines=INDUSTRIAL+EQUIPMENT" alt="INDUSTRIAL EQUIPMENT" />
 
-`PLANNED`
+<img src="https://img.shields.io/badge/PLANNED-12002E?style=flat-square&labelColor=12002E&color=8B5CF6" alt="PLANNED" />
 
-Multi-part assemblies with mates, motion study and interference detection, documented as exploded views.
+<sub>Machine sub-assembly and weldment frame with load-path reasoning and a full manufacturing drawing set.</sub>
 
-_SOLIDWORKS · Motion Study_
+<sub>**SOLIDWORKS · Weldments**</sub>
 
-_Repository — coming soon_
+<sub>Repository — coming soon</sub>
 
 </td>
 <td width="50%" align="center" valign="top">
 
-**Engineering Drawings**
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=17&pause=99999&duration=1&color=0EA5E9&center=true&repeat=false&width=300&height=30&lines=3D+PRINTABLE+PRODUCTS" alt="3D PRINTABLE PRODUCTS" />
 
-`ONGOING`
+<img src="https://img.shields.io/badge/IN%20PROGRESS-12002E?style=flat-square&labelColor=12002E&color=0EA5E9" alt="IN PROGRESS" />
 
-A growing set of production drawings: sections, details, tolerancing and GD&amp;T applied to real parts.
+<sub>A library of print-ready parts designed for tolerance, orientation and minimal support material.</sub>
 
-_AutoCAD · SOLIDWORKS Drawings_
+<sub>**SOLIDWORKS · Blender · FDM**</sub>
 
-_Repository — coming soon_
+<sub>Repository — coming soon</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=17&pause=99999&duration=1&color=FF2EA6&center=true&repeat=false&width=300&height=30&lines=MECHANICAL+ASSEMBLIES" alt="MECHANICAL ASSEMBLIES" />
+
+<img src="https://img.shields.io/badge/PLANNED-12002E?style=flat-square&labelColor=12002E&color=FF2EA6" alt="PLANNED" />
+
+<sub>Multi-part assemblies with mates, motion study and interference detection, documented as exploded views.</sub>
+
+<sub>**SOLIDWORKS · Motion Study**</sub>
+
+<sub>Repository — coming soon</sub>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=17&pause=99999&duration=1&color=00F0FF&center=true&repeat=false&width=290&height=30&lines=ENGINEERING+DRAWINGS" alt="ENGINEERING DRAWINGS" />
+
+<img src="https://img.shields.io/badge/ONGOING-12002E?style=flat-square&labelColor=12002E&color=00F0FF" alt="ONGOING" />
+
+<sub>A growing set of production drawings: sections, details, tolerancing and GD&amp;T applied to real parts.</sub>
+
+<sub>**AutoCAD · SOLIDWORKS Drawings**</sub>
+
+<sub>Repository — coming soon</sub>
 
 </td>
 </tr>
