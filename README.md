@@ -8,21 +8,24 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:1A0B3D,25:6D28D9,55:C026D3,80:0EA5E9,100:00F0FF&text=Jyothisai%20Mekala&fontSize=54&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&desc=Mechanical%20Design%20Engineer%20%C2%B7%20Concept%20to%20Manufacture&descSize=18&descAlign=50&descAlignY=56&animation=fadeIn&stroke=00F0FF&strokeWidth=0" alt="Jyothisai Mekala — Mechanical Design Engineer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1A0B3D,25:6D28D9,55:C026D3,80:0EA5E9,100:00F0FF" width="100%" alt="" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=44&pause=99999&duration=1600&color=00F0FF&center=true&vCenter=true&repeat=false&width=760&height=64&lines=JYOTHISAI+MEKALA" alt="Jyothisai Mekala" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=20&pause=99999&duration=1200&color=C026D3&center=true&vCenter=true&repeat=false&width=760&height=34&lines=MECHANICAL+DESIGN+ENGINEER" alt="Mechanical Design Engineer" />
 
 <!-- Optional: replace the gradient header above with your own CAD banner
      <img src="assets/banner.png" width="100%" /> -->
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&duration=2600&color=00F0FF&center=true&vCenter=true&width=560&height=42&lines=Mechanical+Product+Design;AutoCAD;SOLIDWORKS;Consumer+Products;Automotive+Components;Industrial+Equipment;Product+Visualization;3D+Printing;Engineering+Drawings;Problem+Solving" alt="Mechanical Product Design · AutoCAD · SOLIDWORKS · Consumer Products · Automotive Components · Industrial Equipment · Product Visualization · 3D Printing · Engineering Drawings · Problem Solving" />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=20&pause=1200&duration=2600&color=00F0FF&center=true&vCenter=true&width=560&height=42&lines=Mechanical+Product+Design;AutoCAD;SOLIDWORKS;Consumer+Products;Automotive+Components;Industrial+Equipment;Product+Visualization;3D+Printing;Engineering+Drawings;Problem+Solving" alt="Mechanical Product Design · AutoCAD · SOLIDWORKS · Consumer Products · Automotive Components · Industrial Equipment · Product Visualization · 3D Printing · Engineering Drawings · Problem Solving" />
 
 <br />
 
 <img src="https://img.shields.io/badge/AutoCAD-12002E?style=flat-square&logo=autodesk&logoColor=00F0FF&labelColor=12002E&color=00F0FF" alt="AutoCAD" />
 <img src="https://img.shields.io/badge/SOLIDWORKS-12002E?style=flat-square&logo=dassaultsystemes&logoColor=C026D3&labelColor=12002E&color=C026D3" alt="SOLIDWORKS" />
 <img src="https://img.shields.io/badge/Blender-12002E?style=flat-square&logo=blender&logoColor=8B5CF6&labelColor=12002E&color=8B5CF6" alt="Blender" />
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=C026D3&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
@@ -32,7 +35,7 @@
 
 <br />
 
-## About
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=99999&duration=1&color=00F0FF&repeat=false&width=300&height=40&lines=ABOUT" alt="ABOUT" />
 
 I design products that can actually be built.
 
@@ -59,7 +62,7 @@ This GitHub is the working record of that journey: every concept, sketch iterati
 
 <br />
 
-## Engineering Philosophy
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=99999&duration=1&color=C026D3&repeat=false&width=520&height=40&lines=ENGINEERING+PHILOSOPHY" alt="ENGINEERING PHILOSOPHY" />
 
 <div align="center">
 
@@ -78,7 +81,7 @@ This GitHub is the working record of that journey: every concept, sketch iterati
 
 <br />
 
-## CAD Toolbox
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=99999&duration=1&color=8B5CF6&repeat=false&width=360&height=40&lines=CAD+TOOLBOX" alt="CAD TOOLBOX" />
 
 **Software**
 
@@ -108,7 +111,7 @@ This GitHub is the working record of that journey: every concept, sketch iterati
 
 <br />
 
-## Currently Building Depth In
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=99999&duration=1&color=0EA5E9&repeat=false&width=620&height=40&lines=CURRENTLY+BUILDING+DEPTH+IN" alt="CURRENTLY BUILDING DEPTH IN" />
 
 | Discipline | Proficiency |
 | :-- | :-- |
@@ -129,7 +132,7 @@ This GitHub is the working record of that journey: every concept, sketch iterati
 
 <br />
 
-## Engineering Workflow
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=99999&duration=1&color=FF2EA6&repeat=false&width=480&height=40&lines=ENGINEERING+WORKFLOW" alt="ENGINEERING WORKFLOW" />
 
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'primaryColor':'#1A0B3D','primaryTextColor':'#FFFFFF','primaryBorderColor':'#00F0FF','lineColor':'#C026D3','fontFamily':'ui-monospace, monospace','fontSize':'13px'}}}%%
@@ -155,7 +158,7 @@ flowchart LR
 
 <br />
 
-## Featured Projects
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=99999&duration=1&color=00F0FF&repeat=false&width=430&height=40&lines=FEATURED+PROJECTS" alt="FEATURED PROJECTS" />
 
 <table>
 <tr>
@@ -256,7 +259,7 @@ A growing set of production drawings: sections, details, tolerancing and GD&amp;
 
 <br />
 
-## Contact
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=99999&duration=1&color=C026D3&repeat=false&width=260&height=40&lines=CONTACT" alt="CONTACT" />
 
 Open to collaborating on innovative mechanical product design, CAD modelling and engineering documentation work — from a single component to a full assembly.
 
