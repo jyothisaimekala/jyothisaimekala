@@ -8,27 +8,27 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,35:14213D,70:0E5C7A,100:00E5FF&text=YOUR%20NAME&fontSize=52&fontColor=E6EDF3&fontAlign=50&fontAlignY=38&desc=Mechanical%20Design%20Engineer%20%C2%B7%20Concept%20to%20Manufacture&descSize=18&descAlign=50&descAlignY=56&animation=fadeIn" alt="YOUR NAME — Mechanical Design Engineer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:1A0B3D,25:6D28D9,55:C026D3,80:0EA5E9,100:00F0FF&text=YOUR%20NAME&fontSize=54&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&desc=Mechanical%20Design%20Engineer%20%C2%B7%20Concept%20to%20Manufacture&descSize=18&descAlign=50&descAlignY=56&animation=fadeIn&stroke=00F0FF&strokeWidth=0" alt="Jyothisai Mekala — Mechanical Design Engineer" width="100%" />
 
 <!-- Optional: replace the gradient header above with your own CAD banner
      <img src="assets/banner.png" width="100%" /> -->
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&duration=2600&color=00E5FF&center=true&vCenter=true&width=560&height=42&lines=Mechanical+Product+Design;AutoCAD;SOLIDWORKS;Consumer+Products;Automotive+Components;Industrial+Equipment;Product+Visualization;3D+Printing;Engineering+Drawings;Problem+Solving" alt="Mechanical Product Design · AutoCAD · SOLIDWORKS · Consumer Products · Automotive Components · Industrial Equipment · Product Visualization · 3D Printing · Engineering Drawings · Problem Solving" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&duration=2600&color=00F0FF&center=true&vCenter=true&width=560&height=42&lines=Mechanical+Product+Design;AutoCAD;SOLIDWORKS;Consumer+Products;Automotive+Components;Industrial+Equipment;Product+Visualization;3D+Printing;Engineering+Drawings;Problem+Solving" alt="Mechanical Product Design · AutoCAD · SOLIDWORKS · Consumer Products · Automotive Components · Industrial Equipment · Product Visualization · 3D Printing · Engineering Drawings · Problem Solving" />
 
 <br />
 
-<img src="https://img.shields.io/badge/AutoCAD-0D1117?style=flat-square&logo=autodesk&logoColor=00E5FF&labelColor=0D1117" alt="AutoCAD" />
-<img src="https://img.shields.io/badge/SOLIDWORKS-0D1117?style=flat-square&logo=dassaultsystemes&logoColor=00E5FF&labelColor=0D1117" alt="SOLIDWORKS" />
-<img src="https://img.shields.io/badge/Blender-0D1117?style=flat-square&logo=blender&logoColor=00E5FF&labelColor=0D1117" alt="Blender" />
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=00E5FF&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/badge/AutoCAD-12002E?style=flat-square&logo=autodesk&logoColor=00F0FF&labelColor=12002E&color=00F0FF" alt="AutoCAD" />
+<img src="https://img.shields.io/badge/SOLIDWORKS-12002E?style=flat-square&logo=dassaultsystemes&logoColor=C026D3&labelColor=12002E&color=C026D3" alt="SOLIDWORKS" />
+<img src="https://img.shields.io/badge/Blender-12002E?style=flat-square&logo=blender&logoColor=8B5CF6&labelColor=12002E&color=8B5CF6" alt="Blender" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=C026D3&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B1020,25:1B3A6B,55:0E7C8C,80:00E5FF,100:0B1020&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D0620,15:6D28D9,40:C026D3,65:0EA5E9,88:00F0FF,100:0D0620&section=header" width="100%" alt="" />
 
 <br />
 
@@ -55,7 +55,7 @@ This GitHub is the working record of that journey: every concept, sketch iterati
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B1020,25:1B3A6B,55:0E7C8C,80:00E5FF,100:0B1020&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D0620,15:6D28D9,40:C026D3,65:0EA5E9,88:00F0FF,100:0D0620&section=header" width="100%" alt="" />
 
 <br />
 
@@ -74,7 +74,7 @@ This GitHub is the working record of that journey: every concept, sketch iterati
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B1020,25:1B3A6B,55:0E7C8C,80:00E5FF,100:0B1020&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D0620,15:6D28D9,40:C026D3,65:0EA5E9,88:00F0FF,100:0D0620&section=header" width="100%" alt="" />
 
 <br />
 
@@ -83,56 +83,56 @@ This GitHub is the working record of that journey: every concept, sketch iterati
 **Software**
 
 <p>
-<img src="https://img.shields.io/badge/AutoCAD-0D1117?style=for-the-badge&logo=autodesk&logoColor=00E5FF&labelColor=0D1117" alt="AutoCAD" />
-<img src="https://img.shields.io/badge/SOLIDWORKS-0D1117?style=for-the-badge&logo=dassaultsystemes&logoColor=00E5FF&labelColor=0D1117" alt="SOLIDWORKS" />
-<img src="https://img.shields.io/badge/Blender-0D1117?style=for-the-badge&logo=blender&logoColor=00E5FF&labelColor=0D1117" alt="Blender" />
+<img src="https://img.shields.io/badge/AUTOCAD-12002E?style=for-the-badge&logo=autodesk&logoColor=00F0FF&labelColor=12002E" alt="AutoCAD" />
+<img src="https://img.shields.io/badge/SOLIDWORKS-12002E?style=for-the-badge&logo=dassaultsystemes&logoColor=C026D3&labelColor=12002E" alt="SOLIDWORKS" />
+<img src="https://img.shields.io/badge/BLENDER-12002E?style=for-the-badge&logo=blender&logoColor=8B5CF6&labelColor=12002E" alt="Blender" />
 </p>
 
 **Engineering Capability**
 
 <p>
-<img src="https://img.shields.io/badge/Mechanical%20Design-1C1F26?style=flat-square&labelColor=1C1F26&color=00E5FF" alt="Mechanical Design" />
-<img src="https://img.shields.io/badge/Product%20Design-1C1F26?style=flat-square&labelColor=1C1F26&color=00E5FF" alt="Product Design" />
-<img src="https://img.shields.io/badge/Engineering%20Drawings-1C1F26?style=flat-square&labelColor=1C1F26&color=00E5FF" alt="Engineering Drawings" />
-<img src="https://img.shields.io/badge/Assembly%20Design-1C1F26?style=flat-square&labelColor=1C1F26&color=00E5FF" alt="Assembly Design" />
-<img src="https://img.shields.io/badge/Rendering-1C1F26?style=flat-square&labelColor=1C1F26&color=00E5FF" alt="Rendering" />
-<img src="https://img.shields.io/badge/3D%20Printing-1C1F26?style=flat-square&labelColor=1C1F26&color=00E5FF" alt="3D Printing" />
-<img src="https://img.shields.io/badge/Design%20for%20Manufacturing-1C1F26?style=flat-square&labelColor=1C1F26&color=00E5FF" alt="Design for Manufacturing" />
-<img src="https://img.shields.io/badge/Product%20Visualization-1C1F26?style=flat-square&labelColor=1C1F26&color=00E5FF" alt="Product Visualization" />
-<img src="https://img.shields.io/badge/Problem%20Solving-1C1F26?style=flat-square&labelColor=1C1F26&color=00E5FF" alt="Problem Solving" />
+<img src="https://img.shields.io/badge/Mechanical%20Design-12002E?style=flat-square&labelColor=12002E&color=00F0FF" alt="Mechanical Design" />
+<img src="https://img.shields.io/badge/Product%20Design-12002E?style=flat-square&labelColor=12002E&color=C026D3" alt="Product Design" />
+<img src="https://img.shields.io/badge/Engineering%20Drawings-12002E?style=flat-square&labelColor=12002E&color=8B5CF6" alt="Engineering Drawings" />
+<img src="https://img.shields.io/badge/Assembly%20Design-12002E?style=flat-square&labelColor=12002E&color=0EA5E9" alt="Assembly Design" />
+<img src="https://img.shields.io/badge/Rendering-12002E?style=flat-square&labelColor=12002E&color=FF2EA6" alt="Rendering" />
+<img src="https://img.shields.io/badge/3D%20Printing-12002E?style=flat-square&labelColor=12002E&color=00F0FF" alt="3D Printing" />
+<img src="https://img.shields.io/badge/Design%20for%20Manufacturing-12002E?style=flat-square&labelColor=12002E&color=C026D3" alt="Design for Manufacturing" />
+<img src="https://img.shields.io/badge/Product%20Visualization-12002E?style=flat-square&labelColor=12002E&color=8B5CF6" alt="Product Visualization" />
+<img src="https://img.shields.io/badge/Problem%20Solving-12002E?style=flat-square&labelColor=12002E&color=0EA5E9" alt="Problem Solving" />
 </p>
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B1020,25:1B3A6B,55:0E7C8C,80:00E5FF,100:0B1020&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D0620,15:6D28D9,40:C026D3,65:0EA5E9,88:00F0FF,100:0D0620&section=header" width="100%" alt="" />
 
 <br />
 
 ## Currently Building Depth In
 
-| Discipline | Progress |
+| Discipline | Proficiency |
 | :-- | :-- |
-| AutoCAD Professional Workflow | `████████████████░░░░` |
-| SOLIDWORKS Advanced Modeling | `██████████████░░░░░░` |
-| Assembly Design | `█████████████░░░░░░░` |
-| Engineering Drawings | `███████████████░░░░░` |
-| GD&amp;T | `█████████░░░░░░░░░░░` |
-| Design for Manufacturing | `███████████░░░░░░░░░` |
-| Product Visualization | `████████████░░░░░░░░` |
-| Reverse Engineering | `████████░░░░░░░░░░░░` |
-| Motion Study | `███████░░░░░░░░░░░░░` |
-| Design Documentation | `██████████████░░░░░░` |
+| **AutoCAD Professional Workflow** | <img src="https://progress-bar.xyz/82/?width=300&color=00F0FF&suffix=%25" alt="82%" /> |
+| **SOLIDWORKS Advanced Modeling** | <img src="https://progress-bar.xyz/74/?width=300&color=0EA5E9&suffix=%25" alt="74%" /> |
+| **Assembly Design** | <img src="https://progress-bar.xyz/68/?width=300&color=8B5CF6&suffix=%25" alt="68%" /> |
+| **Engineering Drawings** | <img src="https://progress-bar.xyz/78/?width=300&color=C026D3&suffix=%25" alt="78%" /> |
+| **GD&amp;T** | <img src="https://progress-bar.xyz/46/?width=300&color=FF2EA6&suffix=%25" alt="46%" /> |
+| **Design for Manufacturing** | <img src="https://progress-bar.xyz/57/?width=300&color=00F0FF&suffix=%25" alt="57%" /> |
+| **Product Visualization** | <img src="https://progress-bar.xyz/63/?width=300&color=0EA5E9&suffix=%25" alt="63%" /> |
+| **Reverse Engineering** | <img src="https://progress-bar.xyz/41/?width=300&color=8B5CF6&suffix=%25" alt="41%" /> |
+| **Motion Study** | <img src="https://progress-bar.xyz/35/?width=300&color=C026D3&suffix=%25" alt="35%" /> |
+| **Design Documentation** | <img src="https://progress-bar.xyz/71/?width=300&color=FF2EA6&suffix=%25" alt="71%" /> |
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B1020,25:1B3A6B,55:0E7C8C,80:00E5FF,100:0B1020&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D0620,15:6D28D9,40:C026D3,65:0EA5E9,88:00F0FF,100:0D0620&section=header" width="100%" alt="" />
 
 <br />
 
 ## Engineering Workflow
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#12151C','primaryTextColor':'#E6EDF3','primaryBorderColor':'#00E5FF','lineColor':'#3D4757','fontFamily':'ui-monospace, monospace','fontSize':'13px'}}}%%
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1A0B3D','primaryTextColor':'#FFFFFF','primaryBorderColor':'#00F0FF','lineColor':'#C026D3','fontFamily':'ui-monospace, monospace','fontSize':'13px'}}}%%
 flowchart LR
     A[Idea] --> B[Research]
     B --> C[Sketch]
@@ -151,7 +151,7 @@ flowchart LR
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B1020,25:1B3A6B,55:0E7C8C,80:00E5FF,100:0B1020&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D0620,15:6D28D9,40:C026D3,65:0EA5E9,88:00F0FF,100:0D0620&section=header" width="100%" alt="" />
 
 <br />
 
@@ -240,7 +240,7 @@ A growing set of production drawings: sections, details, tolerancing and GD&amp;
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B1020,25:1B3A6B,55:0E7C8C,80:00E5FF,100:0B1020&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D0620,15:6D28D9,40:C026D3,65:0EA5E9,88:00F0FF,100:0D0620&section=header" width="100%" alt="" />
 
 <br />
 
@@ -252,7 +252,7 @@ A growing set of production drawings: sections, details, tolerancing and GD&amp;
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B1020,25:1B3A6B,55:0E7C8C,80:00E5FF,100:0B1020&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D0620,15:6D28D9,40:C026D3,65:0EA5E9,88:00F0FF,100:0D0620&section=header" width="100%" alt="" />
 
 <br />
 
@@ -261,13 +261,13 @@ A growing set of production drawings: sections, details, tolerancing and GD&amp;
 Open to collaborating on innovative mechanical product design, CAD modelling and engineering documentation work — from a single component to a full assembly.
 
 <p>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0D1117" alt="LinkedIn" /></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=maildotru&logoColor=00E5FF&labelColor=0D1117" alt="Email" /></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-12002E?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=12002E" alt="LinkedIn" /></a>
+<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/EMAIL-12002E?style=for-the-badge&logo=maildotru&logoColor=FF2EA6&labelColor=12002E" alt="Email" /></a>
 </p>
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B1020,25:1B3A6B,55:0E7C8C,80:00E5FF,100:0B1020&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D0620,15:6D28D9,40:C026D3,65:0EA5E9,88:00F0FF,100:0D0620&section=header" width="100%" alt="" />
 
 <br />
 
@@ -279,4 +279,5 @@ Open to collaborating on innovative mechanical product design, CAD modelling and
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:00E5FF,30:0E5C7A,65:14213D,100:0B1020" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:00F0FF,25:0EA5E9,55:C026D3,80:6D28D9,100:1A0B3D" width="100%" alt="" />
+
