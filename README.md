@@ -1,257 +1,108 @@
-<!-- ════════════════════════════════════════════════════════════════
-     BANNER — replace assets/banner.png with your CAD-style artwork
-     Concept: matte-black blueprint ground · technical grid · dimension
-     lines · centerlines · XYZ coordinate axes · wireframe motorcycle ·
-     exploded mechanical assembly · construction geometry · neon cyan
-     Recommended export: 1600 × 400 px, PNG
-     ════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Jyothisai Mekala — Mechanical Design Engineer" />
+<img src="assets/banner.svg" alt="Jyothisai Mekala — Mechanical Design Engineer" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=20&pause=99999&duration=1200&color=C026D3&center=true&vCenter=true&repeat=false&width=760&height=34&lines=MECHANICAL+DESIGN+ENGINEER" alt="Mechanical Design Engineer" />
+<br/>
 
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=20&pause=1200&duration=2600&color=00F0FF&center=true&vCenter=true&width=560&height=42&lines=Mechanical+Product+Design;AutoCAD;SOLIDWORKS;Consumer+Products;Automotive+Components;Industrial+Equipment;Product+Visualization;3D+Printing;Engineering+Drawings;Problem+Solving" alt="Mechanical Product Design · AutoCAD · SOLIDWORKS · Consumer Products · Automotive Components · Industrial Equipment · Product Visualization · 3D Printing · Engineering Drawings · Problem Solving" />
-
-<br />
-
-<img src="https://img.shields.io/badge/AutoCAD-12002E?style=flat-square&logo=autodesk&logoColor=00F0FF&labelColor=12002E&color=00F0FF" alt="AutoCAD" />
-<img src="https://img.shields.io/badge/SOLIDWORKS-12002E?style=flat-square&logo=dassaultsystemes&logoColor=C026D3&labelColor=12002E&color=C026D3" alt="SOLIDWORKS" />
-<img src="https://img.shields.io/badge/Blender-12002E?style=flat-square&logo=blender&logoColor=8B5CF6&labelColor=12002E&color=8B5CF6" alt="Blender" />
+<a href="https://www.linkedin.com/in/jyothisai-mechanical"><img src="https://img.shields.io/badge/LinkedIn-Connect-22d3ee?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1020" alt="LinkedIn"/></a>
+<a href="mailto:jyothisaimekala838@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-a78bfa?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1020" alt="Email"/></a>
+<a href="https://github.com/jyothisaimekala?tab=repositories"><img src="https://img.shields.io/badge/CAD%20%26%20Drawings-Browse%20repos-f472b6?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1020" alt="Repositories"/></a>
 
 </div>
 
-<br />
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D0620,15:6D28D9,40:C026D3,65:0EA5E9,88:00F0FF,100:0D0620&section=header" width="100%" alt="" />
+## 01 // About
 
-<br />
+Mechanical engineer (**B.Tech, 86%**) whose design foundation comes from **projects rather than coursework**: a modal analysis study of a vehicle roll cage frame, a magnet-driven engine fabricated and tested from scratch, and parts modelled in **SolidWorks, AutoCAD and CATIA**.
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=99999&duration=1&color=00F0FF&repeat=false&width=300&height=40&lines=ABOUT" alt="ABOUT" />
-
-I design products that can actually be built.
-
-My work sits between the sketch and the shop floor: taking an idea through research, geometry, tolerance and material choice until it becomes a manufacturable, documented, production-ready assembly.
-
-<div align="center">
-
-**FOCUS AREAS**
-
-| Domain | Scope |
-| :--: | :--: |
-| **Consumer Products** | Ergonomics · enclosures · assembly-friendly geometry |
-| **Automotive Components** | Brackets · housings · functional mechanical parts |
-| **Motorcycle Parts** | Aftermarket and performance component design |
-| **Industrial Equipment** | Frames · fixtures · machine sub-assemblies |
-| **Product Visualization** | Rendering · exploded views · presentation drawings |
-| **3D Printable Products** | Print-oriented design · tolerancing · fast iteration |
-
-</div>
-
-Previously I worked in system-focused engineering environments where precision, ownership, structured workflows, disciplined execution and consistently hitting targets were non-negotiable. That mindset — document everything, verify before you ship, respect the tolerance — is exactly what I now bring to mechanical product design.
-
-This GitHub is the working record of that journey: every concept, sketch iteration, CAD model, drawing set and revision, kept in the open from first idea to production-ready file.
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D0620,15:6D28D9,40:C026D3,65:0EA5E9,88:00F0FF,100:0D0620&section=header" width="100%" alt="" />
-
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=99999&duration=1&color=C026D3&repeat=false&width=520&height=40&lines=ENGINEERING+PHILOSOPHY" alt="ENGINEERING PHILOSOPHY" />
-
-<div align="center">
-
-`OBSERVE` · `DEFINE` · `SKETCH` · `MODEL` · `VALIDATE` · `REFINE` · `MANUFACTURE`
-
-</div>
-
-<br />
-
-> **Design is not finished when nothing can be added.**
-> **It is finished when nothing can fail.**
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D0620,15:6D28D9,40:C026D3,65:0EA5E9,88:00F0FF,100:0D0620&section=header" width="100%" alt="" />
-
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=99999&duration=1&color=8B5CF6&repeat=false&width=360&height=40&lines=CAD+TOOLBOX" alt="CAD TOOLBOX" />
-
-**Software**
-
-<p>
-<img src="https://img.shields.io/badge/AUTOCAD-12002E?style=for-the-badge&logo=autodesk&logoColor=00F0FF&labelColor=12002E" alt="AutoCAD" />
-<img src="https://img.shields.io/badge/SOLIDWORKS-12002E?style=for-the-badge&logo=dassaultsystemes&logoColor=C026D3&labelColor=12002E" alt="SOLIDWORKS" />
-<img src="https://img.shields.io/badge/BLENDER-12002E?style=for-the-badge&logo=blender&logoColor=8B5CF6&labelColor=12002E" alt="Blender" />
-</p>
-
-**Engineering Capability**
-
-<p>
-<img src="https://img.shields.io/badge/Mechanical%20Design-12002E?style=flat-square&labelColor=12002E&color=00F0FF" alt="Mechanical Design" />
-<img src="https://img.shields.io/badge/Product%20Design-12002E?style=flat-square&labelColor=12002E&color=C026D3" alt="Product Design" />
-<img src="https://img.shields.io/badge/Engineering%20Drawings-12002E?style=flat-square&labelColor=12002E&color=8B5CF6" alt="Engineering Drawings" />
-<img src="https://img.shields.io/badge/Assembly%20Design-12002E?style=flat-square&labelColor=12002E&color=0EA5E9" alt="Assembly Design" />
-<img src="https://img.shields.io/badge/Rendering-12002E?style=flat-square&labelColor=12002E&color=FF2EA6" alt="Rendering" />
-<img src="https://img.shields.io/badge/3D%20Printing-12002E?style=flat-square&labelColor=12002E&color=00F0FF" alt="3D Printing" />
-<img src="https://img.shields.io/badge/Design%20for%20Manufacturing-12002E?style=flat-square&labelColor=12002E&color=C026D3" alt="Design for Manufacturing" />
-<img src="https://img.shields.io/badge/Product%20Visualization-12002E?style=flat-square&labelColor=12002E&color=8B5CF6" alt="Product Visualization" />
-<img src="https://img.shields.io/badge/Problem%20Solving-12002E?style=flat-square&labelColor=12002E&color=0EA5E9" alt="Problem Solving" />
-</p>
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D0620,15:6D28D9,40:C026D3,65:0EA5E9,88:00F0FF,100:0D0620&section=header" width="100%" alt="" />
-
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=99999&duration=1&color=0EA5E9&repeat=false&width=620&height=40&lines=CURRENTLY+BUILDING+DEPTH+IN" alt="CURRENTLY BUILDING DEPTH IN" />
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D0620,15:6D28D9,40:C026D3,65:0EA5E9,88:00F0FF,100:0D0620&section=header" width="100%" alt="" />
-
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=99999&duration=1&color=FF2EA6&repeat=false&width=480&height=40&lines=ENGINEERING+WORKFLOW" alt="ENGINEERING WORKFLOW" />
-
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1A0B3D','primaryTextColor':'#FFFFFF','primaryBorderColor':'#00F0FF','lineColor':'#C026D3','fontFamily':'ui-monospace, monospace','fontSize':'13px'}}}%%
-flowchart LR
-    A[Idea] --> B[Research]
-    B --> C[Sketch]
-    C --> D[CAD Modeling]
-    D --> E[Assembly]
-    E --> F[Engineering Drawing]
-    F --> G[Rendering]
-    G --> H[Prototype]
-    H --> I[Testing]
-    I --> J[Optimization]
-    J --> K[Final Product]
-    I -.-> D
-```
-
-<sub>Testing feeds back into the model — iteration is part of the process, not a failure of it.</sub>
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D0620,15:6D28D9,40:C026D3,65:0EA5E9,88:00F0FF,100:0D0620&section=header" width="100%" alt="" />
-
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=99999&duration=1&color=00F0FF&repeat=false&width=430&height=40&lines=FEATURED+PROJECTS" alt="FEATURED PROJECTS" />
-
-<div align="center">
+After four years in IT at Tata Consultancy Services, I'm returning to mechanical design full time.
 
 <table>
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=17&pause=99999&duration=1&color=00F0FF&center=true&repeat=false&width=340&height=30&lines=CONSUMER+PRODUCT+DESIGN" alt="CONSUMER PRODUCT DESIGN" />
+**⚙️ Right now**
 
-<sub>Ergonomic housing study for a handheld consumer device, designed around injection-moulding constraints and snap-fit assembly.</sub>
-
-<sub>**SOLIDWORKS · Blender**</sub>
-
-</td>
-<td width="50%" align="center" valign="top">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=17&pause=99999&duration=1&color=C026D3&center=true&repeat=false&width=400&height=30&lines=MOTORCYCLE+COMPONENT+DESIGN" alt="MOTORCYCLE COMPONENT DESIGN" />
-
-<sub>Aftermarket bracket and mounting hardware set, modelled to fit existing frame geometry with clearance verification.</sub>
-
-<sub>**SOLIDWORKS · AutoCAD**</sub>
+- 🖨️ Designing and 3D printing prototypes to written briefs on my own FDM printer
+- 📐 Completing a **GD&T** course at PUMO Technovation, Chennai
+- 🧩 Learning **sheet metal design**
+- 🗂️ Keeping my CAD and drawing files public and versioned
 
 </td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=17&pause=99999&duration=1&color=8B5CF6&center=true&repeat=false&width=290&height=30&lines=INDUSTRIAL+EQUIPMENT" alt="INDUSTRIAL EQUIPMENT" />
+**🎯 Looking for**
 
-<sub>Machine sub-assembly and weldment frame with load-path reasoning and a full manufacturing drawing set.</sub>
-
-<sub>**SOLIDWORKS · Weldments**</sub>
-
-</td>
-<td width="50%" align="center" valign="top">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=17&pause=99999&duration=1&color=0EA5E9&center=true&repeat=false&width=300&height=30&lines=3D+PRINTABLE+PRODUCTS" alt="3D PRINTABLE PRODUCTS" />
-
-<sub>A library of print-ready parts designed for tolerance, orientation and minimal support material.</sub>
-
-<sub>**SOLIDWORKS · Blender · FDM**</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=17&pause=99999&duration=1&color=FF2EA6&center=true&repeat=false&width=300&height=30&lines=MECHANICAL+ASSEMBLIES" alt="MECHANICAL ASSEMBLIES" />
-
-<sub>Multi-part assemblies with mates, motion study and interference detection, documented as exploded views.</sub>
-
-<sub>**SOLIDWORKS · Motion Study**</sub>
-
-</td>
-<td width="50%" align="center" valign="top">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=17&pause=99999&duration=1&color=00F0FF&center=true&repeat=false&width=290&height=30&lines=ENGINEERING+DRAWINGS" alt="ENGINEERING DRAWINGS" />
-
-<sub>A growing set of production drawings: sections, details, tolerancing and GD&amp;T applied to real parts.</sub>
-
-<sub>**AutoCAD · SOLIDWORKS Drawings**</sub>
+- Full-time, **onsite**, entry-level mechanical design role
+- Hands-on with CAD, drawings, tolerancing and prototyping
+- Based in Chennai, India
+- **Available immediately**
 
 </td>
 </tr>
 </table>
 
-</div>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-<br />
+## 02 // Numbers from my projects
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D0620,15:6D28D9,40:C026D3,65:0EA5E9,88:00F0FF,100:0D0620&section=header" width="100%" alt="" />
+<img src="assets/metrics.svg" width="100%" alt="+33.9% first-mode natural frequency, −17.9% peak deformation, 6+3 variants analysed, zero-fuel electromagnetic engine"/>
 
-<br />
+## 03 // Toolbox
+
+<img src="assets/stack.svg" width="100%" alt="Toolbox: SolidWorks, AutoCAD, CATIA V5, ANSYS, FDM 3D printing, Blender and more"/>
+
+## 04 // How I build a prototype
+
+<img src="assets/workflow.svg" width="100%" alt="Brief, sketch, CAD model, printability review, slice, print, measure, correct, then reprint until it fits"/>
+
+I take a written brief from engineering students, interpret the functional requirement, and hand back a printed prototype they can assemble and test. I design for the process rather than around it: wall thickness, overhang and support strategy, print orientation for load direction, and clearance on mating features. Every failed print is data: I work out whether the fault sits in the model, the orientation or the machine, and fix the cause rather than the symptom.
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## 05 // Projects
+
+### 🖨️ Prototype Design & 3D Printing &nbsp;`ongoing`
+Self-directed practice on my own FDM printer. I own the whole loop alone: concept sketch → CAD model → printability review → slicing → print → measure against the model → correct → reprint.
+
+### 🗂️ Public CAD & Drawing Repository &nbsp;`ongoing`
+[github.com/jyothisaimekala](https://github.com/jyothisaimekala): CAD and drawing files organised per project, so a reviewer can trace a design from the first model through revisions to the printed part.
+
+Recent practice pieces:
+- L-bracket with gusset / stiffener ribs
+- Swan-neck cam lever profile
+- Bolt-circle gasket plate (polar array, PCD construction geometry)
+- ISO A4 landscape drawing-sheet template: frame, zone grid, title block, first-angle projection symbol
+
+### 🛡️ Modal Analysis of Roll Cage Frame for Optimum Design &nbsp;`B.Tech major project · 2021`
+*Team of 4 · Chadalawada Ramanamma Engineering College (JNTU Anantapur)*
+- Modelled the frame in **CATIA V5** and ran modal analysis in **ANSYS 15.0** to extract natural frequencies and mode-shape deformations, assessing occupant safety under rollover loading.
+- Built and analysed **6 frame variants** (top-member length ratio), then extended the study to **3 reinforcement variants** (side, back and top cross-members).
+- Best configuration, **side-and-back cross-members**: up to **33.9% higher first-mode natural frequency** and **17.9% lower peak deformation** than the weakest variant.
+- Split analysis and reporting across the team and presented the trade-offs to faculty reviewers.
+
+### 🧲 Design & Fabrication of an Electromagnetic Engine &nbsp;`Diploma final-year project · 2018`
+*Team of 4 · Sri Kalahasteeswara Institute of Technology*
+- Designed a zero-fuel engine that replaces spark plugs and valves with an **electromagnet and NdFeB permanent-magnet piston**, using attraction and repulsion instead of combustion to drive reciprocating motion.
+- Chose non-magnetic materials (aluminium cylinder, non-magnetic stainless-steel / titanium piston casing) to contain the field and cut weight versus a cast-iron IC engine.
+- Built the coil, relay-and-timer control circuit and battery supply; fabricated and tested a working prototype (fuel-free, zero-emission, low-noise) and outlined an ECU-based path to more power.
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## 06 // Background
+
+| | |
+|---|---|
+| **Experience** | **System Engineer, Tata Consultancy Services** · Mar 2022 – May 2026 · Chennai<br/>Supported production infrastructure under strict change control, traced incidents to root cause with documented fixes, automated repetitive tasks, and wrote the runbooks and configuration documents the team worked from: the same discipline a drawing office applies to controlled documents. |
+| **Education** | **B.Tech, Mechanical Engineering** · Chadalawada Ramanamma Engineering College (JNTU Anantapur) · 2018–2021 · 86%<br/>**Diploma, Mechanical Engineering** · Sri Kalahasteeswara Institute of Technology · 2015–2018 · 78% |
+| **Training** | AutoCAD & SolidWorks (completed) · GD&T, PUMO Technovation, Chennai (in progress) |
+| **Languages** | English (fluent) · Telugu (fluent) · Hindi (intermediate) · Tamil (beginner) |
+
+<br/>
 
 <div align="center">
 
-### "A drawing is a promise. Every dimension on it is a commitment to reality."
+<img src="assets/footer.svg" width="100%" alt="Let's make something that fits — open to mechanical design roles"/>
 
 </div>
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D0620,15:6D28D9,40:C026D3,65:0EA5E9,88:00F0FF,100:0D0620&section=header" width="100%" alt="" />
-
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=99999&duration=1&color=C026D3&repeat=false&width=260&height=40&lines=CONTACT" alt="CONTACT" />
-
-Open to collaborating on innovative mechanical product design, CAD modelling and engineering documentation work — from a single component to a full assembly.
-
-<p>
-<a href="https://www.linkedin.com/in/jyothisai-mechanical"><img src="https://img.shields.io/badge/LINKEDIN-12002E?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=12002E" alt="LinkedIn" /></a>
-<a href="mailto:jyothisaimekala838@gmail.com"><img src="https://img.shields.io/badge/EMAIL-12002E?style=for-the-badge&logo=maildotru&logoColor=FF2EA6&labelColor=12002E" alt="Email" /></a>
-</p>
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D0620,15:6D28D9,40:C026D3,65:0EA5E9,88:00F0FF,100:0D0620&section=header" width="100%" alt="" />
-
-<br />
-
-<div align="center">
-
-<sub>Designed, modelled and documented by **Jyothisai Mekala** · Mechanical Design Engineer</sub>
-
-<sub>`CONCEPT` — `CAD` — `VALIDATION` — `PRODUCTION`</sub>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:00F0FF,25:0EA5E9,55:C026D3,80:6D28D9,100:1A0B3D" width="100%" alt="" />
