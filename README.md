@@ -112,23 +112,6 @@ This GitHub is the working record of that journey: every concept, sketch iterati
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=99999&duration=1&color=0EA5E9&repeat=false&width=620&height=40&lines=CURRENTLY+BUILDING+DEPTH+IN" alt="CURRENTLY BUILDING DEPTH IN" />
 
-<div align="center">
-
-| Discipline | Proficiency |
-| :--: | :--: |
-| **AutoCAD Professional Workflow** | <img src="https://progress-bar.xyz/82/?width=280&color=00F0FF&suffix=%25" alt="82%" /> |
-| **SOLIDWORKS Advanced Modeling** | <img src="https://progress-bar.xyz/74/?width=280&color=0EA5E9&suffix=%25" alt="74%" /> |
-| **Assembly Design** | <img src="https://progress-bar.xyz/68/?width=280&color=8B5CF6&suffix=%25" alt="68%" /> |
-| **Engineering Drawings** | <img src="https://progress-bar.xyz/78/?width=280&color=C026D3&suffix=%25" alt="78%" /> |
-| **GD&amp;T** | <img src="https://progress-bar.xyz/46/?width=280&color=FF2EA6&suffix=%25" alt="46%" /> |
-| **Design for Manufacturing** | <img src="https://progress-bar.xyz/57/?width=280&color=00F0FF&suffix=%25" alt="57%" /> |
-| **Product Visualization** | <img src="https://progress-bar.xyz/63/?width=280&color=0EA5E9&suffix=%25" alt="63%" /> |
-| **Reverse Engineering** | <img src="https://progress-bar.xyz/41/?width=280&color=8B5CF6&suffix=%25" alt="41%" /> |
-| **Motion Study** | <img src="https://progress-bar.xyz/35/?width=280&color=C026D3&suffix=%25" alt="35%" /> |
-| **Design Documentation** | <img src="https://progress-bar.xyz/71/?width=280&color=FF2EA6&suffix=%25" alt="71%" /> |
-
-</div>
-
 <br />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D0620,15:6D28D9,40:C026D3,65:0EA5E9,88:00F0FF,100:0D0620&section=header" width="100%" alt="" />
