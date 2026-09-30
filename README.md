@@ -25,8 +25,7 @@ After four years in IT at Tata Consultancy Services, I'm returning to mechanical
 **⚙️ Right now**
 
 - 🖨️ Designing and 3D printing prototypes to written briefs on my own FDM printer
-- 📐 Completing a **GD&T** course at PUMO Technovation, Chennai
-- 🧩 Learning **sheet metal design**
+- 📐 Completed **GD&T** (PUMO Technovation, Chennai) and **sheet metal modelling**
 - 🗂️ Keeping my CAD and drawing files public and versioned
 
 </td>
@@ -96,7 +95,7 @@ Recent practice pieces:
 |---|---|
 | **Experience** | **System Engineer, Tata Consultancy Services** · Mar 2022 – May 2026 · Chennai<br/>Supported production infrastructure under strict change control, traced incidents to root cause with documented fixes, automated repetitive tasks, and wrote the runbooks and configuration documents the team worked from: the same discipline a drawing office applies to controlled documents. |
 | **Education** | **B.Tech, Mechanical Engineering** · Chadalawada Ramanamma Engineering College (JNTU Anantapur) · 2018–2021 · 86%<br/>**Diploma, Mechanical Engineering** · Sri Kalahasteeswara Institute of Technology · 2015–2018 · 78% |
-| **Training** | AutoCAD & SolidWorks (completed) · GD&T, PUMO Technovation, Chennai (in progress) |
+| **Training** | AutoCAD & SolidWorks · GD&T (PUMO Technovation, Chennai) · Sheet metal modelling: all completed |
 | **Languages** | English (fluent) · Telugu (fluent) · Hindi (intermediate) · Tamil (beginner) |
 
 <br/>
